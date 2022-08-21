@@ -357,6 +357,7 @@ class VoucherViewSet(viewsets.ModelViewSet):
 Now, you'll get the `voucherrows` field with data in the right format in your serializers.
 Similar approach will be also applicable for generic views for django rest framework
 
+
 Authors
 =======
 2014-2021, beda.software
