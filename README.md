@@ -5,8 +5,7 @@ DRF Writable Nested
 [![pypi](https://img.shields.io/pypi/v/drf-writable-nested.svg)](https://pypi.python.org/pypi/drf-writable-nested)
 [![pyversions](https://img.shields.io/pypi/pyversions/drf-writable-nested.svg)](https://pypi.python.org/pypi/drf-writable-nested)
 
-This is a writable nested model serializer for Django REST Framework which
-allows you to create/update your models with related nested data.
+This is a writable nested model serializer for Django REST Framework which allows you to create/update your models with related nested data.
 
 The following relations are supported:
 - OneToOne (direct/reverse)
